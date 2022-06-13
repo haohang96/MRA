@@ -9,4 +9,4 @@ Deep neural networks are capable of learning powerful representations to tackle 
 </div>
 
 ## Noting
-* Code will be released in the feature.
+* Code will be released in the future.
